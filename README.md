@@ -55,7 +55,7 @@ I'm a full stack developer with hands-on experience in .NET Core, Python, and mo
 ##  Languages
 
 - **English:** Fluent  
-- **Norwegian (Norsk):** A2 level  
+- **Norwegian (Norsk):** B1 level  
 
 ---
 
