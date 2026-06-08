@@ -1,70 +1,117 @@
 # 👋 Hi, I'm Md Safin Sarker
 
-🔹 Full Stack Developer | Cloud Enthusiast | DevOps Learner  
-🔹 Passionate about building scalable software and AI-driven tools  
-🔹 Based in Stavanger, Norway  
+**AI Engineer | Full-Stack Developer | Agentic AI & Cloud AI Enthusiast**  
+📍 Sandnes, Norway  
+
+I build practical AI and software solutions that turn business needs into working prototypes, integrations, and user-facing tools. My experience spans **AI agents, RAG systems, generative AI, cloud-based AI applications, and full-stack development**.
+
+---
 
 ## 💼 About Me
 
-I'm a full stack developer with hands-on experience in .NET Core, Python, and modern JavaScript frameworks. My current interests lie in DevOps and AI, where I’m developing tools to enhance design workflows using Stable Diffusion.
+I am an AI Engineer with a full-stack development background and hands-on experience building practical AI solutions for real users.
 
-### 🔧  Recent Roles
+My recent work includes developing **Life AI Illustrations** at **Laerdal Medical**, where I used **Stable Diffusion, LoRA, ComfyUI, React, Flask, OpenAI, Copilot Studio, and Power Platform** to support AI-assisted medical illustration workflows.
 
-- 💻 **Software Engineer Intern** at DevSkill (Remote)  
-- 📚 **Master's Thesis Student** at Laerdal & University of Stavanger  
-- 🧑‍🏫 **Teaching Assistant** – Image Processing & Computer Vision (UiS)
+I am especially interested in making AI useful in real work environments by combining software engineering, AI agents, cloud platforms, and user-focused prototyping.
 
 ---
 
-## 🛠️ Skills
+## 🔭 Current Focus
 
-**Languages & Frameworks**  
-`C#`, `Python`, `JavaScript`, `ASP.NET Core`, `React`, `Next.js`
-
-**Dev Tools & Cloud**  
-`Docker compose`, `Git`, `GitHub Actions`, `AWS (EC2, S3)`, `Azure`, `CI/CD`, `Linux`, `PowerShell`, `Bash`
-
-**Databases & Querying**  
-`MSSQL`, `MySQL`, `Redis`, `LINQ`, , `Entity Framework`, `Stored Procedures`
-
-**Architecture & Design**  
-`Clean Architecture`, `Design Patterns`, `SOLID Principles`
-
-**Machine Learning & AI**  
-`Model Training`, `Data Analysis`, `Generative AI`, `Stable Diffusion`, `LoRA (Low-Rank Adaptation)`, `ComfyUI`
+- Building full-stack features using **React, .NET, and Python**
+- Developing and integrating **AI agents** using **Azure AI Foundry, Copilot Studio, and Power Platform**
+- Working with **LLM-powered workflows**, **RAG**, and **agentic AI systems**
+- Exploring **custom tools, existing tool integrations, MCP servers, and AI-assisted development workflows**
+- Applying **spec-driven development** and AI-assisted prototyping to move from ideas to working solutions faster
 
 ---
 
+## 💼 Recent Experience
 
-## 📜 Certifications
+- 💻 **Software Developer** at **NetPower**  
+  Full-stack development using **React, .NET, and Python**
 
-- 🎓  [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/safinsarker-7633/credentials/476dfbbe7e830e56)
+- 🤖 **AI Generated Illustrations Specialist** at **Laerdal Medical**  
+  Developed **Life AI Illustrations** using **Stable Diffusion, LoRA, ComfyUI, React, Flask, OpenAI, Copilot Studio, and Power Platform**
+
+- 🧠 **Intern – LoRA Training, Generative Models & Workflow Development** at **Laerdal Medical**
+
+- 🎓 **Master’s Thesis Student** at **Laerdal Medical & University of Stavanger**
+
+- 🧑‍🏫 **Teaching Assistant** – Image Processing & Computer Vision, University of Stavanger
+
+---
+
+## 🛠️ Technical Skills
+
+### AI Platforms, Agents & Prototyping
+
+`Azure AI Foundry` `Copilot Studio` `Power Platform` `Agent Deployment` `Custom Tools` `Existing Tool Integration` `MCP Server` `Spec-Driven Development`
+
+### LLM & RAG Development
+
+`OpenAI API` `LangChain` `LangGraph` `Embeddings` `Vector Search` `Prompt Engineering` `Agentic RAG`
+
+### Generative AI
+
+`Stable Diffusion` `LoRA` `ComfyUI` `Model Fine-Tuning`
+
+### Programming & Frameworks
+
+`Python` `FastAPI` `Flask` `C#` `.NET Core` `ASP.NET Web API` `EF Core` `JavaScript` `TypeScript` `React` `Next.js`
+
+### Cloud, DevOps & Databases
+
+`Azure Endpoints` `Azure Container Apps` `Docker` `Git` `GitHub Actions` `MSSQL` `PostgreSQL` `MongoDB` `Chroma DB` `Pinecone`
+
+### Collaboration & Delivery
+
+`Agile` `Scrum` `Jira` `GitHub Projects` `Stakeholder Communication` `Requirement Clarification` `AI-Assisted Development`
+
+---
+
+## 🌐 Portfolio
+
+Explore my selected projects, GitHub repositories, technical work, and professional experience through my **AI-enabled portfolio website with an integrated chatbot**:
+
+🔗 [Portfolio Website](https://safin-portfolio-website.netlify.app/#home)
+
+---
+
+## 📜 Certification
+
+- 🎓 [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/safinsarker-7633/credentials/476dfbbe7e830e56)
 
 ---
 
 ## 🎓 Education
 
-- **M.Sc. in Computer Science (Data Science)**  
-  University of Stavanger – *Expected 2025*
+**M.Sc. in Computer Science – Data Science**  
+University of Stavanger, Norway  
+2022 – 2025  
 
-- **B.Sc. in Computer Science**  
-  American International University-Bangladesh – 2021
+**B.Sc. in Computer Science**  
+American International University-Bangladesh  
+2017 – 2021  
 
 ---
 
-##  Languages
+## 🌍 Languages
 
 - **English:** Fluent  
-- **Norwegian (Norsk):** B1 level  
+- **Norwegian:** Intermediate, progressing towards B2  
+- **Bengali:** Native  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- 📍 Rosenberggata 67, Stavanger, Norway  
-- 📧 safinsarker1122@gmail.com  
+- 📍 Stavanger, Norway  
+- 📧 [safinsarker1122@gmail.com](mailto:safinsarker1122@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/safin-sarker/)
+- 🌐 [Portfolio Website](https://safin-portfolio-website.netlify.app/#home)
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+> Building practical AI solutions that are useful, reliable, and easy for people to adopt.
